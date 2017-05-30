@@ -41,14 +41,14 @@ Soal1_input.php
 		<title>Soal 1</title>
 	</head>
 	<body>
-	<form action="Soal2_proses.php" method="post">
+	<form action="Soal1_proses.php" method="post">
 		Masukkan Angka 1 - 10: <input type="text" name="angka"><br>
 		<input type="submit">
 	</form>
 	</body>
 	</html>
 
-Soal2_proses.php
+Soal1_proses.php
 
 	<html>
 	<head>
